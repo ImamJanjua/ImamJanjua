@@ -2,7 +2,7 @@
 🔭 Fullstack developer<br>
 👯 Using most modern technology<br>
 🤝 Selftaught<br>
-🌱 Currently working on Nxst>
+🌱 Currently working on Nxst><br>
 💬 Focus on simplicity, readability, and maintainability<br>
 
 

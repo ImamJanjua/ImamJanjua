@@ -22,6 +22,4 @@ KI-Entwicklung & Automatisierung — ich baue produktionsreife LLM-Pipelines, RA
 
 TypeScript · Python · Next.js · LangGraph · n8n · Supabase · Docker · OpenAI/Claude · AWS
 
-### Kontakt
 
-📫 i.janjua@simplicity.ag

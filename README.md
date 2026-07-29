@@ -23,10 +23,10 @@ Containerisierung · CI/CD · Cloud-Deployment · AWS · Cloud-Deployment Monito
 
 ### Beispiel-Projekte
 
+- **[Meterstein-portfolio](https://github.com/ImamJanjua/Meterstein-portfolio)** — Firmen-App für einen Montagebetrieb, täglich im Produktiveinsatz
+- **[Handbuch-RAG](https://github.com/ImamJanjua/Handbuch-RAG)** — RAG-Dienst, der nur mit Quellenangabe antwortet und seine Qualität messbar macht
 - **[Leads-v2](https://github.com/ImamJanjua/Leads-v2)** — KI-Pipeline, die aus einem Firmennamen einen verifizierten Entscheider-Kontakt macht
 - **[support-agent](https://github.com/ImamJanjua/support-agent)** — KI-Agent, der Kundenanfragen einordnet und Antworten ausformuliert
-- **[Handbuch-RAG](https://github.com/ImamJanjua/Handbuch-RAG)** — RAG-Dienst, der nur mit Quellenangabe antwortet und seine Qualität messbar macht
-- **[Meterstein-portfolio](https://github.com/ImamJanjua/Meterstein-portfolio)** — Firmen-App für einen Montagebetrieb, täglich im Produktiveinsatz
 
 Details und Architektur-Entscheidungen stehen in den jeweiligen Repositories.
 

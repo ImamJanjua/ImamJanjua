@@ -30,6 +30,3 @@ Containerisierung · CI/CD · Cloud-Deployment · AWS · Cloud-Deployment Monito
 
 Details und Architektur-Entscheidungen stehen in den jeweiligen Repositories.
 
-### Kontakt
-
-📫 i.janjua@simplicity.ag

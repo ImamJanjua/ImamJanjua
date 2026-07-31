@@ -5,7 +5,7 @@ KI-Entwicklung & Automatisierung — ich baue KI-Systeme und Automatisierungen, 
 ### Was ich mitbringe
 
 **KI** RAG-Systeme 
-LLM-Pipelines ·· KI-Agenten · Evaluation-getriebene Entwicklung · strukturierte, validierte Modellausgaben
+RAG & LLM-Pipelines · KI-Agenten · Evaluation-getriebene Entwicklung · strukturierte, validierte Modellausgaben
 
 **Agentic Coding**
 Entwicklung mit KI-Agenten als Standard-Workflow — hohe Umsetzungsgeschwindigkeit ohne Qualitätsverlust

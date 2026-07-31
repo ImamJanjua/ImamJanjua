@@ -17,7 +17,7 @@ Workflow-Automatisierung · Prozessdigitalisierung · API-Integration · Anbindu
 TypeScript · Python · Web- und Mobile-Apps · APIs ·  Datenbanken 
 
 **DevOps & Betrieb**
-Containerisierung · CI/CD · Cloud-Deployment · AWS · Cloud-Deployment Monitoring · Qualitäts-Gates in der Pipeline
+Containerisierung · CI/CD · Cloud-Deployment · AWS · Cloud-Deployment Monitoring 
 
 
 

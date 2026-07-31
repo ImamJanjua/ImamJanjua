@@ -4,8 +4,8 @@ KI-Entwicklung & Automatisierung — ich baue KI-Systeme und Automatisierungen, 
 
 ### Was ich mitbringe
 
-**KI & LLM-Engineering**
-RAG-Systeme · LLM-Pipelines · Prompt-Engineering · KI-Agenten · Evaluation-getriebene Entwicklung · strukturierte, validierte Modellausgaben
+**KI** RAG-Systeme 
+LLM-Pipelines ·· KI-Agenten · Evaluation-getriebene Entwicklung · strukturierte, validierte Modellausgaben
 
 **Agentic Coding**
 Entwicklung mit KI-Agenten als Standard-Workflow — hohe Umsetzungsgeschwindigkeit ohne Qualitätsverlust
@@ -14,7 +14,7 @@ Entwicklung mit KI-Agenten als Standard-Workflow — hohe Umsetzungsgeschwindigk
 Workflow-Automatisierung · Prozessdigitalisierung · API-Integration · Anbindung externer Dienste
 
 **Full-Stack-Entwicklung**
-TypeScript · Python · Web- und Mobile-Apps · APIs · relationale Datenbanken · Typsicherheit von der Datenbank bis zur Oberfläche
+TypeScript · Python · Web- und Mobile-Apps · APIs ·  Datenbanken 
 
 **DevOps & Betrieb**
 Containerisierung · CI/CD · Cloud-Deployment · AWS · Cloud-Deployment Monitoring · Qualitäts-Gates in der Pipeline
